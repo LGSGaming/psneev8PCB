@@ -5,7 +5,3 @@ Compact PCB designed for PSnee v8 code by postal2201. Firmware can be found [her
 ## Contributing
 
 Pull requests are welcome
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
